@@ -1,0 +1,103 @@
+#has-grid .grid-item { width: 30%; margin: 1.5%; display: inline-block; vertical-align: top; overflow: hidden; text-align: center; min-height: 370px; background-color: #fff; position: relative; }
+#has-grid .grid-item span { height: 180px; width: 100%; overflow: hidden;}
+#has-grid .grid-item img { height: 180px; max-width: none; margin: 0 -100% !important;}
+#has-grid .grid-item h2.title { font-size: 20px; line-height: 24px; color: #3a98c3; margin: 10px 0 0; padding: 0 20px; text-align: left; }
+#has-grid .grid-item .meta { font-size: 11px; line-height: 15px; text-align: left; padding: 0 20px; color: #999; margin: 10px 0;}
+
+.community .index #has-grid { overflow: hidden; }
+.community .index #has-grid .grid-item { width: 25%; margin: 0; display: block; float: left; min-height: 180px;}
+.community .index #has-grid .grid-item h2.title {
+  background: #333;
+  color: #fff;
+  display: block;
+  font-size: 44px;
+  letter-spacing: -1px;
+  line-height: normal;
+  position: absolute;
+  text-transform: uppercase;
+  top: 52px;
+  left: 0;
+}
+.community .index #has-grid .grid-item.fire h2.title { background: #ff6400; }
+.community .index #has-grid .grid-item.flood h2.title { background: #00baff; }
+.community .index #has-grid .grid-item.tornado h2.title { background: #aaa; }
+.community .index #has-grid .grid-item.special-projects h2.title { background: #9abf4a; font-size: 36px; }
+.community .index #has-grid .grid-item a img { opacity: 1; }
+.community .index #has-grid .grid-item a:hover img { opacity: 0.3; }
+
+/* Font changes for Case Studies index */
+.cases #has-grid .grid-item .meta, .uses #has-grid .grid-item .meta { font-size: 13px; line-height: 18px; }
+
+/* Grid item tweak for App Gallery index */
+.category-index #has-grid .grid-item { min-height: 300px; }
+
+/* Font changes for App Gallery index */
+.category-index #has-grid .grid-item .meta { font-size: inherit; line-height: inherit; }
+
+#has-grid .grid-item .category { font-size: 9px; text-transform: uppercase; line-height: 20px; text-align: left; padding: 0 20px; color: #999; margin: 20px 0 10px; font-weight: bold; position: absolute; bottom: 0;}
+#has-grid .grid-item .category a, #has-grid .grid-item .category span { color: #fff; height: auto; margin-right: 5px; border-radius: 15px; padding: 0px 15px; margin-bottom: 5px; display: inline-block; float: left;}
+
+.content .cat-content{ width: 100%; background-color: #efefef; padding: 10px 0; margin-bottom:20px;  }
+.content .cat-nav { width: 960px; margin: 0 auto; }
+
+.content .cat-nav .filter { padding-left: 5px; margin: 0;}
+.content .cat-nav .filter #showmenu, .blog .content .cat-nav .filter #expand, .blog .content .cat-nav .filter #collapse { font-size: 11px; text-transform: uppercase; line-height: 20px; color: #999; }
+.content .cat-nav .filter #showmenu{ outline : none; cursor: pointer; }
+
+.content .cat-nav .category { width: 100%; margin: 10px 0 0;}
+.content .cat-nav .category li { font-size: 9px; text-transform: uppercase; line-height: 20px; font-weight: bold; display: inline-block; list-style: none;}
+.content .cat-nav .category a { color: #fff; margin-right: 5px; border-radius: 15px; padding: 0px 15px; margin-bottom: 5px; display: inline-block; float: left;}
+
+@media (max-width: 978px) {
+/*
+  #has-grid .grid-item { width: 30%; }
+  .community #has-grid .grid-item { width: 21%; }
+  .content .cat-nav { width: 960px; margin: 0 auto; }
+*/
+}
+@media (max-width: 756px) {
+  #has-grid .grid-item { width: 46%; margin: 1.5%; min-height: 370px; }
+  #has-grid .grid-item img { height: 180px; }
+  .community #has-grid .grid-item { min-height: auto; }
+  .community #has-grid .grid-item img { height: 150px; }
+
+  .content .cat-nav { width: 90%;  margin: 0 auto; }
+  .content .cat-content { display: block; }
+}
+@media (max-width: 480px) {
+  #has-grid .grid-item { width: 100%; margin: 10px 0; min-height: 430px; }
+  #has-grid .grid-item img { height: 250px; }
+  .content .cat-content { display: none; }
+}
+@media (max-width: 320px) {
+}
+
+
+
+
+/* BLOG CATEGORIES */
+.category .app-of-the-week { background-color: #f7ac59; }
+.category .business { background-color: #97c9ca; }
+.category .developers { background-color: #ecda5d; }
+.category .events { background-color: #bcc6df; }
+.category .customer-highlight { background-color: #99d28e; }
+.category .tools { background-color: #e67378; }
+.category .how-to { background-color: #72d0f4; }
+.category .series { background-color: #8b4691; }
+.category .links { background-color: #f7ac59; }
+.category .features { background-color: #bbd073; }
+.category .quick-tips { background-color: #9ea6ad; }
+.category .team { background-color: #f98962; }
+.category .allposts { background-color: #ccc;}
+.category .press { background-color: #90afdb;}
+.category .community { background-color: #de038e;}
+
+/* COMMUNITY CATEGORIES */
+.category .fire { background-color: #ff6400; }
+.category .flood { background-color: #00baff;}
+.category .tornado { background-color: #314655;}
+.category .special-projects { background-color: #9abf4a;}
+
+
+/* CASE STUDY CATEGORY */
+.category .general { background-color: #eee; }
