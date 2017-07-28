@@ -1,7 +1,7 @@
 import './styles/screen.scss'
 
 const main = () => {
-  document.querySelector('h1').textContent += '?'
+  console.log("<---- check out index.js ---->");
 }
 
 document.addEventListener('DOMContentLoaded', main)
