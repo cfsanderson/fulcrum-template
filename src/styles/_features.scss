@@ -7,7 +7,7 @@
 .what-else .btn { margin-top:-10px; margin-right:60px; }
 .what-else .watercolor .btn { color:#000; font-size:1em; margin-right:10px; padding-left:50px; padding-right:50px; text-shadow:0 1px 0 #fff;}
 
-.get-started { background:url(../img/watercolor-bg.jpg) top left no-repeat; margin:0 auto; width:1023px; padding-top:60px; padding-bottom:50px; }
+// .get-started { background:url(../../public/assets/img/watercolor-bg.jpg) top left no-repeat; margin:0 auto; width:1023px; padding-top:60px; padding-bottom:50px; }
 .features .get-started p { color:#000; font-size:1.11111111111111em; text-shadow:0 1px 0 #fff; float:left; margin-left:60px; }
 .get-started a { float:right;}
 
@@ -26,7 +26,7 @@ Media Queries ------------------------------------------------------------------
 .features .content { padding-bottom:0; }
 .features .feature-title {
   background:rgb(255,255,255); /* solid fallback */
-  background: rgba(255,255,255,.8); 
+  background: rgba(255,255,255,.8);
   border-top-width:1px;
   border-top-style:solid;
   border-bottom-width:1px;
@@ -48,9 +48,9 @@ Media Queries ------------------------------------------------------------------
 .features .field { background:#fff; }
 .features .office { background:#fff; }
 .features .manage { background:#f0f0f0; }
-.features .api { background:#fff4df url(../img/features/api-BG.jpg) top center no-repeat; }
+.features .api { background:#fff4df url(../../public/assets/img/features/api-BG.jpg) top center no-repeat; }
 
-.features .field .col1 { background:#fff url(../img/features/field-BG.jpg) bottom left no-repeat; float:left; margin-left:-750px; height:790px; width:1245px; opacity:.1; }
+.features .field .col1 { background:#fff url(../../public/assets/img/features/field-BG.jpg) bottom left no-repeat; float:left; margin-left:-750px; height:790px; width:1245px; opacity:.1; }
 .features .field .col2 { float: right; width:320px; }
 .features .field .col2 ul { margin-top:-520px; margin-left:15px; margin-right:15px; }
 .features .field .col2 img { display:block; float:left; }
@@ -65,7 +65,7 @@ Media Queries ------------------------------------------------------------------
 .features .office ul li { float:left; margin-left:42px; width:260px; }
 .features .office ul li:first-child { margin-left:42px; }
 
-.features .manage .col1 { background:#fff url(../img/features/manage-BG.jpg) top center no-repeat; float:left; margin-left:30px; margin-top:40px; height:650px; width:492px; opacity:.1; }
+.features .manage .col1 { background:#fff url(../../public/assets/img/features/manage-BG.jpg) top center no-repeat; float:left; margin-left:30px; margin-top:40px; height:650px; width:492px; opacity:.1; }
 .features .manage .col2 { float: left; width:320px; }
 .features .manage .col2 ul { margin:-430px 15px 30px 15px; }
 
@@ -131,7 +131,7 @@ Media Queries ------------------------------------------------------------------
 .features .field .col2 { position:absolute; width:auto; left:60px; right:60px; }
 .features .field .col2 ul { margin-top:250px; }
 
-.features .office { background:#fff url(../img/features/office-bg2.jpg) top center repeat-x; }
+.features .office { background:#fff url(../../public/assets/img/features/office-bg2.jpg) top center repeat-x; }
 .features .office .section-wrapper { background:rgba(221,242,255,.9); }
 .features .office ul img { padding-bottom:20px; padding-left:20px; max-width:50%; }
 .features .office ul img.center { padding-left:20px; }
@@ -165,7 +165,7 @@ Media Queries ------------------------------------------------------------------
 .features .main-headline p { font-size:1em; }
 
 .features .wrapper.field { overflow:hidden; }
-.features .field .col1 { background:#fff url(../img/features/field-BG.jpg) 0 0 no-repeat; float:left; margin-left:-750px; margin-top:-77px; height:660px; width:1245px; opacity:.1; }
+.features .field .col1 { background:#fff url(../../public/assets/img/features/field-BG.jpg) 0 0 no-repeat; float:left; margin-left:-750px; margin-top:-77px; height:660px; width:1245px; opacity:.1; }
 .features .field .col1 { opacity:1; }
 .features .field .col2 { position:static; width:430px; }
 .features .field .col2 ul { margin-top:210px; }
@@ -177,7 +177,7 @@ Media Queries ------------------------------------------------------------------
 .features .office ul li { float:left; margin-left:88px; width:260px; }
 .features .office ul li:first-child { margin-left:0; }
 
-.features .manage .col1 { background:#fff url(../img/features/manage-BG.jpg) 0 0 no-repeat; float:left; margin-left:-60px; margin-top:40px; height:442px; width:492px; opacity:1; }
+.features .manage .col1 { background:#fff url(../../public/assets/img/features/manage-BG.jpg) 0 0 no-repeat; float:left; margin-left:-60px; margin-top:40px; height:442px; width:492px; opacity:1; }
 .features .manage .col2 { float: right; width:430px; position:static; }
 .features .manage .col2 ul { margin-top:180px; margin-bottom:30px; }
 

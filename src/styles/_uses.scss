@@ -5,7 +5,7 @@
 .uses .content h2 { margin-bottom: 5px; text-align: left; font-size: 30px; }
 .uses h3 { margin-bottom: 15px; text-align: left; font-size: 24px; }
 .uses p { margin-bottom: 20px; }
-.uses article ul li { font-size: .875em; margin-bottom: 15px; line-height: 1.5em; list-style: none; margin-left: 20px; padding-left: 40px; background: url(../img/uses/arrow.svg) no-repeat left top; background-size: 25px; }
+.uses article ul li { font-size: .875em; margin-bottom: 15px; line-height: 1.5em; list-style: none; margin-left: 20px; padding-left: 40px; background: url(../../public/assets/img/uses/arrow.svg) no-repeat left top; background-size: 25px; }
 
 
 
@@ -21,10 +21,10 @@
 
 .uses .sample { position:relative; margin-bottom:160px; }
 .uses .branding, .uses .contact, .uses .layout, .uses .signatures { position:absolute; }
-.uses .branding { background: url(../img/features/branding.png) top center no-repeat; height:167px; width:263px; top:-80px; left:-184px; }
-.uses .contact { background: url(../img/features/contact.png) top center no-repeat; height:117px; width:267px; top:0; right:-160px; }
-.uses .layout { background: url(../img/features/layout.png) top center no-repeat; height:208px; width:276px; top:170px; left:-190px; }
-.uses .signatures { background: url(../img/features/signatures.png) top center no-repeat; height:198px; width:310px; bottom:-110px; left:0; }
+.uses .branding { background: url(../../public/assets/img/features/branding.png) top center no-repeat; height:167px; width:263px; top:-80px; left:-184px; }
+.uses .contact { background: url(../../public/assets/img/features/contact.png) top center no-repeat; height:117px; width:267px; top:0; right:-160px; }
+.uses .layout { background: url(../../public/assets/img/features/layout.png) top center no-repeat; height:208px; width:276px; top:170px; left:-190px; }
+.uses .signatures { background: url(../../public/assets/img/features/signatures.png) top center no-repeat; height:198px; width:310px; bottom:-110px; left:0; }
 
 .uses aside .appImg {
   height:100px;

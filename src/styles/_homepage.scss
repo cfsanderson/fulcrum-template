@@ -3,7 +3,7 @@
 
 .homepage .content { padding-bottom: 0; }
 
-.banner-wrap { background: #83cde9 url(../img/homepage/formbuilder.jpg) bottom center no-repeat; height: 554px; overflow: hidden; position: relative; z-index: 9999; background-size: auto 130%; }
+.banner-wrap { background: #83cde9 url(../../public/assets/img/homepage/formbuilder.jpg) bottom center no-repeat; height: 554px; overflow: hidden; position: relative; z-index: 9999; background-size: auto 130%; }
 .homepage div header h1 {
   font-style: normal;
   font-size: 48px;
@@ -24,7 +24,7 @@
 .banner-text .second-link { font-size:14px; }
 
 #webinar-signup {
-  background: #eae9da url(../img/webinar-BG.jpg) top center no-repeat;
+  // background: #eae9da url(../../public/assets/img/webinar-BG.jpg) top center no-repeat;
   background-size: cover;
   border-top: 1px solid #dad8b6;
   border-bottom: 1px solid #dad8b6;
@@ -34,7 +34,7 @@
 #webinar-signup .btn { float: right; }
 
 #cartodb-alert {
-  background: #046aaa url(../img/homepage/carto-BG.jpg) top center no-repeat;
+  // background: #046aaa url(../../public/assets/img/homepage/carto-BG.jpg) top center no-repeat;
   background-size: cover;
   border-top: 1px solid #004672;
   border-bottom: 1px solid #004672;
@@ -72,7 +72,7 @@
     text-align: center;
   }
   .banner-wrap {
-    background: #83cde9 url(../img/homepage/formbuilder-mob.jpg) bottom center no-repeat;
+    background: #83cde9 url(../../public/assets/img/homepage/formbuilder-mob.jpg) bottom center no-repeat;
     height: 644px;
     background-size: 100%;
   }
@@ -103,9 +103,9 @@
 }
 
 /* Benefits */
-#hp-benefits { padding: 35px 0 85px; background: url(../img/homepage/benefits-bg.jpg) no-repeat center right; background-size: 100%; }
+#hp-benefits { padding: 35px 0 85px; background: url(../../public/assets/img/homepage/benefits-bg.jpg) no-repeat center right; background-size: 100%; }
 #hp-benefits .lefthalf {float: left; width: 55%; height: 100%;}
-#hp-benefits .righthalf{background: url(../img/homepage/benefits-bg.png) no-repeat top left; float: right; width: 45%; height: 100%;}
+#hp-benefits .righthalf{background: url(../../public/assets/img/homepage/benefits-bg.png) no-repeat top left; float: right; width: 45%; height: 100%;}
 #hp-benefits .benefit { display: block; margin-top: 35px; }
 #hp-benefits .benefit h2 { display: block; text-align: left;}
 #hp-benefits .benefit p { display: block; text-align: left; width: 300px;}
@@ -115,7 +115,7 @@
 
 @media only all and (max-width: 978px) {
   #hp-benefits {
-    background: url(../img/homepage/benefits-bg.jpg) no-repeat 100px center;
+    background: url(../../public/assets/img/homepage/benefits-bg.jpg) no-repeat 100px center;
     background-size: 100%;
   }
 }
@@ -189,7 +189,7 @@
 
 #hp-customer { padding: 30px 0 35px; background-color: #fefefe; position: relative; overflow: hidden; border-bottom: 1px solid #eee; }
 #hp-customer .quotes {
-  background: url(../img/homepage/uses/quotes.svg) top left no-repeat;
+  background: url(../../public/assets/img/homepage/uses/quotes.svg) top left no-repeat;
   background-size: 200px 200px;
   height: 200px;
   width: 200px;
@@ -331,68 +331,68 @@ input:checked + .slide-container  .slide {
 /* END preload*/
 
 /* CHECKLISTS */
-.sub1 { background: url(../img/homepage/uses/city-park.jpg) top center no-repeat; }
+.sub1 { background: url(../../public/assets/img/homepage/uses/city-park.jpg) top center no-repeat; }
 .sub1-one-overlay {
-  background: url(../img/homepage/uses/city-park-one.jpg) top center no-repeat !important;
+  background: url(../../public/assets/img/homepage/uses/city-park-one.jpg) top center no-repeat !important;
   transition: all 0.25s ease-in-out;
 }
 .sub1-two-overlay {
-  background: url(../img/homepage/uses/city-park-two.jpg) top center no-repeat !important;
+  background: url(../../public/assets/img/homepage/uses/city-park-two.jpg) top center no-repeat !important;
   transition: all 0.25s ease-in-out;
 }
 .sub1-three-overlay {
-  background: url(../img/homepage/uses/city-park-three.jpg) top center no-repeat !important;
+  background: url(../../public/assets/img/homepage/uses/city-park-three.jpg) top center no-repeat !important;
   transition: all 0.25s ease-in-out;
 }
 
 /* ASSETS */
 .sub2 {
-  background: url(../img/homepage/uses/farmland.jpg) top center no-repeat;
+  background: url(../../public/assets/img/homepage/uses/farmland.jpg) top center no-repeat;
 }
 .sub2-one-overlay {
-  background: url(../img/homepage/uses/farmland-one.jpg) top center no-repeat !important;
+  background: url(../../public/assets/img/homepage/uses/farmland-one.jpg) top center no-repeat !important;
   transition: all 0.25s ease-in-out;
 }
 .sub2-two-overlay {
-  background: url(../img/homepage/uses/farmland-two.jpg) top center no-repeat !important;
+  background: url(../../public/assets/img/homepage/uses/farmland-two.jpg) top center no-repeat !important;
   transition: all 0.25s ease-in-out;
 }
 .sub2-three-overlay {
-  background: url(../img/homepage/uses/farmland-three.jpg) top center no-repeat !important;
+  background: url(../../public/assets/img/homepage/uses/farmland-three.jpg) top center no-repeat !important;
   transition: all 0.25s ease-in-out;
 }
 
 /* INSPECTIONS */
 .sub3 {
-  background: url(../img/homepage/uses/canal.jpg) top center no-repeat;
+  background: url(../../public/assets/img/homepage/uses/canal.jpg) top center no-repeat;
 }
 .sub3-one-overlay {
-  background: url(../img/homepage/uses/canal-one.jpg) top center no-repeat !important;
+  background: url(../../public/assets/img/homepage/uses/canal-one.jpg) top center no-repeat !important;
   transition: all 0.25s ease-in-out;
 }
 .sub3-two-overlay {
-  background: url(../img/homepage/uses/canal-two.jpg) top center no-repeat !important;
+  background: url(../../public/assets/img/homepage/uses/canal-two.jpg) top center no-repeat !important;
   transition: all 0.25s ease-in-out;
 }
 .sub3-three-overlay {
-  background: url(../img/homepage/uses/canal-three.jpg) top center no-repeat !important;
+  background: url(../../public/assets/img/homepage/uses/canal-three.jpg) top center no-repeat !important;
   transition: all 0.25s ease-in-out;
 }
 
 /* GIS */
 .sub4 {
-  background: url(../img/homepage/uses/neighborhood.jpg) top center no-repeat;
+  background: url(../../public/assets/img/homepage/uses/neighborhood.jpg) top center no-repeat;
 }
 .sub4-one-overlay {
-  background: url(../img/homepage/uses/neighborhood-one.jpg) top center no-repeat !important;
+  background: url(../../public/assets/img/homepage/uses/neighborhood-one.jpg) top center no-repeat !important;
   transition: all 0.25s ease-in-out;
 }
 .sub4-two-overlay {
-  background: url(../img/homepage/uses/neighborhood-two.jpg) top center no-repeat !important;
+  background: url(../../public/assets/img/homepage/uses/neighborhood-two.jpg) top center no-repeat !important;
   transition: all 0.25s ease-in-out;
 }
 .sub4-three-overlay {
-  background: url(../img/homepage/uses/neighborhood-three.jpg) top center no-repeat !important;
+  background: url(../../public/assets/img/homepage/uses/neighborhood-three.jpg) top center no-repeat !important;
   transition: all 0.25s ease-in-out;
 }
 
@@ -583,7 +583,7 @@ input:checked + .slide-container  .slide {
     margin: 0 auto;
   }
   #hp-benefits {
-    background: url(../img/homepage/benefits-bg.jpg) no-repeat center right;
+    background: url(../../public/assets/img/homepage/benefits-bg.jpg) no-repeat center right;
     background-size: contain;
  }
 }
@@ -726,7 +726,7 @@ input:checked + .slide-container  .slide {
   .fulcrum-live-banner {
     background:
       linear-gradient(to bottom right, rgba(252, 140, 14, 0.7), rgba(251, 3, 0, 0.8), rgba(147, 6, 6, 0.8)),
-      url('/assets/img/fulcrum-live/fulcrum-live-globe-background-mobile.jpg') center / cover no-repeat; 
+      url('/assets/img/fulcrum-live/fulcrum-live-globe-background-mobile.jpg') center / cover no-repeat;
     }
 }
 

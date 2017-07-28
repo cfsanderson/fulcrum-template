@@ -8,7 +8,7 @@
   position: fixed;
   bottom: 0;
   width: 100%;
-  z-index: 99;  
+  z-index: 99;
   opacity: 0.8;
 }
 
@@ -173,7 +173,7 @@
 .cases .cases-rodriguez .banner { background: #99a946; }
 .cases .cases-premier .banner { background: #d92b2c; }
 .cases .cases-dcq .banner { background: #a13542; }
-.cases .cases-century .banner { background: #036 url(../img/cases/ce-arch-BG.png) bottom left repeat-x; }
+.cases .cases-century .banner { background: #036 url(../../public/assets/img/cases/ce-arch-BG.png) bottom left repeat-x; }
 .cases .cases-brownandcaldwell .banner {
   background: #342985;
   background-image: -webkit-linear-gradient(163deg,#190e6b 10%,#342985 36%,#fff 70%);
@@ -226,7 +226,7 @@
   background-repeat: no-repeat;
 }
 .cases .cases-victrack #about img { max-width: 300px; padding: 20px 15px; }
-.cases .cases-darksky .banner { background:#35405a url(../img/cases/dark-sky-stars.png) top right repeat; }
+.cases .cases-darksky .banner { background:#35405a url(../../public/assets/img/cases/dark-sky-stars.png) top right repeat; }
 .cases .cases-darksky #about {
   background: #ebf6ff; /* for non-css3 browsers */
   background-image: -moz-linear-gradient(top, #ebf6ff, #c2daec); /* Firefox 3.6 */
@@ -314,8 +314,8 @@
 .cases .banner p { color:#fff; margin-bottom:0; text-align:center; }
 
 /* About Page */
-.press .banner { background: url(../img/press/press-BG.jpg) top center no-repeat; background-size: cover; }
-.press.history .banner { background: url(../img/about/history-BG2.jpg) top center no-repeat; background-size: cover; }
+.press .banner { background: url(../../public/assets/img/press/press-BG.jpg) top center no-repeat; background-size: cover; }
+.press.history .banner { background: url(../../public/assets/img/about/history-BG2.jpg) top center no-repeat; background-size: cover; }
 
 .press .banner h1, .press .banner p { color: #000; }
 .press #about, .press #logos, .press #team { background: #fff; border-top: 1px solid #f2f2f2; border-bottom: 1px solid #f2f2f2; }

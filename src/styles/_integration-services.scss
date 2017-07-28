@@ -2,12 +2,12 @@
 .integration-services .main-headline { background: #8c9cac; padding-top: 40px; padding-bottom: 244px; margin-bottom: 163px; }
 .integration-services .main-headline h1,
 .integration-services .main-headline p { color: #fff; }
-.integration-services .main-headline h1 { font-size: 52px; } 
+.integration-services .main-headline h1 { font-size: 52px; }
 .integration-services .main-headline p { font-size: inherit; margin: 20px 0; }
 .integration-services .hero-image { background: #8c9cac; margin-bottom: 133px; position: relative; }
-.integration-services .box { 
-  background: url(../img/integration-services/integration-services-box2.jpg) bottom center no-repeat; 
-  background-size: 857px 456px; 
+.integration-services .box {
+  background: url(../../public/assets/img/integration-services/integration-services-box2.jpg) bottom center no-repeat;
+  background-size: 857px 456px;
   bottom: -510px;
   height: 456px;
   margin: 0 auto;
@@ -18,15 +18,15 @@
 }
 .integration-services .services { padding-bottom: 50px; }
 .integration-services .item { margin: 0 auto; padding: 40px 0; width: 590px; }
-.integration-services .icon { 
+.integration-services .icon {
   background: #f1f1f1;
   -webkit-border-radius: 97px;
   -moz-border-radius: 97px;
   border-radius: 97px;
   
   height: 194px;
-  margin: 0 auto 20px; 
-  text-align: center; 
+  margin: 0 auto 20px;
+  text-align: center;
   width: 194px;
 }
 .integration-services .consulting .icon { background: #caedff; }
@@ -42,7 +42,7 @@
 
 .integration-services .item h2 { font-size: 44px; }
 .integration-services .item li { padding-top: 20px; margin-left: 26px; position: relative; }
-.integration-services .item li:before { 
+.integration-services .item li:before {
   content: "";
   background: url(/assets/img/plans/plans-check.svg) 0 0 no-repeat;
   background-size: 20px 20px;
@@ -62,7 +62,7 @@
 }
 @media (max-width: 756px) {
   .integration-services .hero-image { margin-bottom: 34px; }
-  .integration-services .box { background-size: 675px 333px; height: 333px; bottom: -375px; } 
+  .integration-services .box { background-size: 675px 333px; height: 333px; bottom: -375px; }
   .integration-services .services { text-align: left; }
   .integration-services .icon { margin: 0 auto 40px; }
   .integration-services .item { margin: 0 auto; padding: 50px 0; width: 90%; }

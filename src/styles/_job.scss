@@ -1,10 +1,10 @@
 
 .controller iframe { height: 760px; }
 
-.banner { background: url(../img/press/press-BG.jpg) top center no-repeat; background-size: cover; margin-bottom: 20px; padding: 45px 0px 60px; }
+.banner { background: url(../../public/assets/img/press/press-BG.jpg) top center no-repeat; background-size: cover; margin-bottom: 20px; padding: 45px 0px 60px; }
 
 .jobs {
-  /*background:url('../img/blackline2.png') no-repeat top center;*/
+  /*background:url('../../public/assets/img/blackline2.png') no-repeat top center;*/
   clear:both;
   display:block;
   max-width: 944px;
@@ -63,24 +63,24 @@
 }
 
 .controller {
-  background: url('../img/controller.svg') no-repeat top left;
+  background: url('../../public/assets/img/controller.svg') no-repeat top left;
   min-height: 65px;
   background-size: 65px 65px;
 }
 
 .content-marketing {
-  background: url('../img/content-marketing.svg') no-repeat top left;
+  background: url('../../public/assets/img/content-marketing.svg') no-repeat top left;
   min-height: 65px;
   background-size: 65px 65px;
 }
 .web-designer {
-  background: url('../img/designer.svg') no-repeat top left;
+  background: url('../../public/assets/img/designer.svg') no-repeat top left;
   min-height: 65px;
   background-size: 65px 65px;
 }
 
 .ios-developer {
-  background: url('../img/ios-dev.svg') no-repeat top left;
+  background: url('../../public/assets/img/ios-dev.svg') no-repeat top left;
   min-height: 65px;
   background-size: 65px 65px;
 }
@@ -90,7 +90,7 @@
   position: relative;
 }
 .hr-generalist {
-  background: url('../img/hr.svg') no-repeat top left;
+  background: url('../../public/assets/img/hr.svg') no-repeat top left;
   min-height: 65px;
   background-size: 65px 65px;
 }
@@ -116,7 +116,7 @@
 }
 
 .engineer {
-  background: url('../img/engineer.svg') no-repeat top left;
+  background: url('../../public/assets/img/engineer.svg') no-repeat top left;
   min-height: 65px;
   background-size: 65px 65px;
 }
@@ -175,7 +175,7 @@
 
 
 .fbjob {
-  background: url(../img/06-facebook.svg) center center no-repeat;
+  background: url(../../public/assets/img/06-facebook.svg) center center no-repeat;
   height: 25px;
   width: 25px;
   display: inline-block;
@@ -183,7 +183,7 @@
   background-size: 24px 24px;
 }
 .lijob {
-  background: url(../img/05-linkedin.svg) center center no-repeat;
+  background: url(../../public/assets/img/05-linkedin.svg) center center no-repeat;
   height: 25px;
   width: 25px;
   display: inline-block;
@@ -192,7 +192,7 @@
 }
 
 .twjob {
-  background: url(../img/03-twitter.svg) center center no-repeat;
+  background: url(../../public/assets/img/03-twitter.svg) center center no-repeat;
   height: 25px;
   width: 25px;
   display: inline-block;
@@ -201,7 +201,7 @@
 }
 
 .gpjob {
-  background: url(../img/40-google-plus.svg) center center no-repeat;
+  background: url(../../public/assets/img/40-google-plus.svg) center center no-repeat;
   height: 25px;
   width: 25px;
   display: inline-block;

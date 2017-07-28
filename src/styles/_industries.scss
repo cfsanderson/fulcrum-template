@@ -111,7 +111,7 @@
 
 
 /* GLOBAL */
-.industries .intro-vid { background: #fff url(../img/industries/BG-vid.jpg) top center no-repeat; background-size: cover; border-bottom: 1px solid #eee; }
+.industries .intro-vid { background: #fff url(../../public/assets/img/industries/BG-vid.jpg) top center no-repeat; background-size: cover; border-bottom: 1px solid #eee; }
 .industries .intro-vid iframe { border: 1px solid #eee; box-shadow: 0 0 5px #eee; }
 .industries .what.bottom { margin-top: 50px; clear: both; }
 .industries .main-features { border-bottom: 1px solid #f1f1f1; }
@@ -328,7 +328,7 @@
 .industries .architecture .icon-container { border-color: #565d65; }
 
 /* PAGE-SPECIFIC */
-.industries .engineering header.top { background: #565d65 url(../img/industries/BG-eng-new.jpg) top center no-repeat; }
+.industries .engineering header.top { background: #565d65 url(../../public/assets/img/industries/BG-eng-new.jpg) top center no-repeat; }
 .industries .engineering .features svg { fill: #565d65;}
 .industries .engineering .features .f1 svg { height: 110px; width: 129px; margin-left: -65px; }
 .industries .engineering .features .f2 svg { height: 120px; width: 100px; margin-left: -50px; }
@@ -339,11 +339,11 @@
 .industries .engineering .features-apps .apps li img { border-color: #565d65; }
 
 /* TESTIMONIALS */
-.industries .testimonial.rodriguez { background: url(../img/industries/BG-eng-rodriguez.jpg) top center no-repeat; }
+.industries .testimonial.rodriguez { background: url(../../public/assets/img/industries/BG-eng-rodriguez.jpg) top center no-repeat; }
 .industries .testimonial.rodriguez .logo { width: 240px; background:#fff; padding: 20px; border: 1px solid #ccc; }
 .industries .testimonial.rodriguez .text { padding-top: 20px; }
 
-.industries .testimonial.smec { background: url(../img/industries/BG-eng-smec.jpg) top center no-repeat; }
+.industries .testimonial.smec { background: url(../../public/assets/img/industries/BG-eng-smec.jpg) top center no-repeat; }
 .industries .testimonial.smec .logo { width: 240px; margin-top: 26px; background:#fff; padding: 20px; border: 1px solid #ccc; }
 .industries .testimonial.smec .text {  }
 
@@ -369,7 +369,7 @@
 .industries .construction .icon-container { border-color: #a3540a; }
 
 /* PAGE-SPECIFIC */
-.industries .construction header.top { background: #a3540a url(../img/industries/BG-con-new.jpg) top center no-repeat; }
+.industries .construction header.top { background: #a3540a url(../../public/assets/img/industries/BG-con-new.jpg) top center no-repeat; }
 .industries .construction .features svg { fill: #a3540a;}
 .industries .construction .features .f1 svg { height: 100px; width: 129px; margin-left: -65px; }
 .industries .construction .features .f2 svg { height: 104px; width: 148px; margin-left: -74px; }
@@ -378,11 +378,11 @@
 .industries .construction .features-apps .apps li img { border-color: #a3540a; }
 
 /* TESTIMONIALS */
-.industries .testimonial.degenkolb { background: url(../img/industries/BG-con-degenkolb.jpg) top center no-repeat; }
+.industries .testimonial.degenkolb { background: url(../../public/assets/img/industries/BG-con-degenkolb.jpg) top center no-repeat; }
 .industries .testimonial.degenkolb .logo { width: 300px; margin-top: 70px; text-align: center; background:#fff; padding: 20px; border: 1px solid #ccc; }
 .industries .testimonial.degenkolb .text { padding-top: 10px; }
 
-.industries .testimonial.brown-caldwell { background: url(../img/industries/BG-con-brown-caldwell.jpg) top center no-repeat; }
+.industries .testimonial.brown-caldwell { background: url(../../public/assets/img/industries/BG-con-brown-caldwell.jpg) top center no-repeat; }
 .industries .testimonial.brown-caldwell .logo { width: 300px; margin-top: 18px; background:#fff; padding: 20px; border: 1px solid #ccc; }
 .industries .testimonial.brown-caldwell .text {  }
 
@@ -405,7 +405,7 @@
 
 /*  EDUCATION
 --------------------------------------------------------------------------------------------------------------------*/
-.industries .education header.top { background: #8f376a url(../img/industries/BG-edu.jpg) top center no-repeat; }
+.industries .education header.top { background: #8f376a url(../../public/assets/img/industries/BG-edu.jpg) top center no-repeat; }
 .industries .education header svg,
 .industries .education svg { fill: #8f376a; height: 50px; width: 43px; margin-top: 17px; }
 .industries .education .icon-container { border-color: #8f376a; }
@@ -438,7 +438,7 @@
 .industries .energy .icon-container { border-color: #6b4a2a; }
 
 /* PAGE-SPECIFIC */
-.industries .energy header.top { background: #578bc7 url(../img/industries/BG-ene-new2.jpg) top center no-repeat; }
+.industries .energy header.top { background: #578bc7 url(../../public/assets/img/industries/BG-ene-new2.jpg) top center no-repeat; }
 .industries .energy .features svg { fill: #623a13;}
 .industries .energy .features .f1 svg { height: 82px; width: 129px; margin-left: -65px; }
 .industries .energy .features .f2 svg { height: 100px; width: 100px; margin-left: -50px; }
@@ -447,15 +447,15 @@
 .industries .energy .features-apps .apps li img { border-color: #623a13; }
 
 /* TESTIMONIALS */
-.industries .testimonial.np { background: url(../img/industries/BG-ene-np2.jpg) top center no-repeat; }
+.industries .testimonial.np { background: url(../../public/assets/img/industries/BG-ene-np2.jpg) top center no-repeat; }
 .industries .testimonial.np .logo { width: 400px; margin-top: 35px; }
 .industries .testimonial.np .text { padding-top: 10px; }
 
-.industries .testimonial.premier { background: url(../img/industries/BG-ene-premier.jpg) top center no-repeat; }
+.industries .testimonial.premier { background: url(../../public/assets/img/industries/BG-ene-premier.jpg) top center no-repeat; }
 .industries .testimonial.premier .logo { width: 250px; margin-top: 50px; }
 .industries .testimonial.premier .text {  }
 
-.industries .testimonial.ram { background: url(../img/industries/BG-ene-ram.jpg) top center no-repeat; }
+.industries .testimonial.ram { background: url(../../public/assets/img/industries/BG-ene-ram.jpg) top center no-repeat; }
 .industries .testimonial.ram .logo { width: 194px; border: 1px solid #ddd; background: #fff; padding: 10px; }
 .industries .testimonial.ram .text {  }
 
@@ -485,7 +485,7 @@
 
 
 /* PAGE-SPECIFIC */
-.industries .environmental header.top { background: #07556c url(../img/industries/BG-env-new3.jpg) top center no-repeat; }
+.industries .environmental header.top { background: #07556c url(../../public/assets/img/industries/BG-env-new3.jpg) top center no-repeat; }
 .industries .environmental .features svg { fill: #3f5e00;}
 .industries .environmental .features .f1 svg { height: 82px; width: 129px; margin-left: -65px; }
 .industries .environmental .features .f2 svg { height: 125px; width: 118px; margin-left: -59px; }
@@ -494,15 +494,15 @@
 .industries .environmental .features-apps .apps li img { border-color: #3f5e00; }
 
 /* TESTIMONIALS */
-.industries .testimonial.dcq { background: url(../img/industries/BG-env-dcq2.jpg) top center no-repeat; }
+.industries .testimonial.dcq { background: url(../../public/assets/img/industries/BG-env-dcq2.jpg) top center no-repeat; }
 .industries .testimonial.dcq .logo { width: 300px; }
 .industries .testimonial.dcq .text { padding-top: 45px; }
 
-.industries .testimonial.dark-sky { background: url(../img/industries/BG-env-dark-sky.jpg) top center no-repeat; }
+.industries .testimonial.dark-sky { background: url(../../public/assets/img/industries/BG-env-dark-sky.jpg) top center no-repeat; }
 .industries .testimonial.dark-sky .logo { width: 160px; }
 .industries .testimonial.dark-sky .text {  }
 
-.industries .testimonial.green-collar { background: url(../img/industries/BG-env-green-collar.jpg) top center no-repeat; }
+.industries .testimonial.green-collar { background: url(../../public/assets/img/industries/BG-env-green-collar.jpg) top center no-repeat; }
 .industries .testimonial.green-collar .logo { padding-top: 110px; width: 400px; }
 .industries .testimonial.green-collar .text {  }
 
@@ -527,7 +527,7 @@
 
 /* HUMANITARIAN ASSISTANCE, DISASTER RELIEF, & EMERGENCY MANAGEMENT
 --------------------------------------------------------------------------------------------------------------------*/
-.industries .humanitarian header.top { background: #7b393a url(../img/industries/BG-hum.jpg) top center no-repeat; }
+.industries .humanitarian header.top { background: #7b393a url(../../public/assets/img/industries/BG-hum.jpg) top center no-repeat; }
 .industries .humanitarian header svg,
 .industries .humanitarian svg { fill: #7b393a; height: 42px; width: 42px; margin-top: 21px; }
 .industries .humanitarian .icon-container { border-color: #7b393a; }
@@ -562,7 +562,7 @@
 
 /* NON PROFITS & NGOs
 --------------------------------------------------------------------------------------------------------------------*/
-.industries .non-profit header.top { background: #1d3664 url(../img/industries/BG-non.jpg) top center no-repeat; }
+.industries .non-profit header.top { background: #1d3664 url(../../public/assets/img/industries/BG-non.jpg) top center no-repeat; }
 .industries .non-profit header.top h1 span { text-transform: lowercase; }
 .industries .non-profit header svg,
 .industries .non-profit svg { fill: #1d3664; height: 46px; width: 53px; margin-top: 21px; }
@@ -593,7 +593,7 @@
 .industries .oil-and-gas .icon-container { border-color: #565d65; }
 
 /* PAGE-SPECIFIC */
-.industries .oil-and-gas header.top { background: #565d65 url(../img/industries/BG-oil-new.jpg) top center no-repeat; }
+.industries .oil-and-gas header.top { background: #565d65 url(../../public/assets/img/industries/BG-oil-new.jpg) top center no-repeat; }
 .industries .oil-and-gas .features svg { fill: #565d65;}
 .industries .oil-and-gas .features .f1 svg { height: 110px; width: 129px; margin-left: -65px; }
 .industries .oil-and-gas .features .f2 svg { height: 120px; width: 100px; margin-left: -50px; }
@@ -604,11 +604,11 @@
 .industries .oil-and-gas .features-apps .apps li img { border-color: #565d65; }
 
 /* TESTIMONIALS */
-.industries .testimonial.rodriguez { background: url(../img/industries/BG-eng-rodriguez.jpg) top center no-repeat; }
+.industries .testimonial.rodriguez { background: url(../../public/assets/img/industries/BG-eng-rodriguez.jpg) top center no-repeat; }
 .industries .testimonial.rodriguez .logo { width: 240px; background:#fff; padding: 20px; border: 1px solid #ccc; }
 .industries .testimonial.rodriguez .text { padding-top: 20px; }
 
-.industries .testimonial.smec { background: url(../img/industries/BG-eng-smec.jpg) top center no-repeat; }
+.industries .testimonial.smec { background: url(../../public/assets/img/industries/BG-eng-smec.jpg) top center no-repeat; }
 .industries .testimonial.smec .logo { width: 240px; margin-top: 26px; background:#fff; padding: 20px; border: 1px solid #ccc; }
 .industries .testimonial.smec .text {  }
 
@@ -636,7 +636,7 @@
 .industries .transportation .icon-container { border-color: #0c5972; }
 
 /* PAGE-SPECIFIC */
-.industries .transportation header.top { background: #578bc7 url(../img/industries/BG-tra-new2.jpg) top center no-repeat; }
+.industries .transportation header.top { background: #578bc7 url(../../public/assets/img/industries/BG-tra-new2.jpg) top center no-repeat; }
 .industries .transportation .features svg { fill: #045a76;}
 .industries .transportation .features .f1 svg { height: 82px; width: 129px; margin-left: -65px; }
 .industries .transportation .features .f2 svg { height: 100px; width: 100px; margin-left: -50px; }
@@ -645,11 +645,11 @@
 .industries .transportation .features-apps .apps li img { border-color: #045a76; }
 
 /* TESTIMONIALS */
-.industries .testimonial.victrack { background: url(../img/industries/BG-tra-victrack.jpg) top center no-repeat; }
+.industries .testimonial.victrack { background: url(../../public/assets/img/industries/BG-tra-victrack.jpg) top center no-repeat; }
 .industries .testimonial.victrack .logo { width: 300px; margin-top: 70px; text-align: center; background:#fff; padding: 20px; border: 1px solid #ccc; }
 .industries .testimonial.victrack .text { padding-top: 10px; }
 
-.industries .testimonial.century { background: url(../img/industries/BG-tra-century.jpg) top center no-repeat; }
+.industries .testimonial.century { background: url(../../public/assets/img/industries/BG-tra-century.jpg) top center no-repeat; }
 .industries .testimonial.century .logo { width: 300px; margin-top: 78px; background:#fff; padding: 20px; border: 1px solid #ccc; }
 .industries .testimonial.century .text {  }
 
@@ -676,7 +676,7 @@
 .industries .water .icon-container { border-color: #007090; }
 
 /* PAGE-SPECIFIC */
-.industries .water header.top { background: #007090 url(../img/industries/BG-water.jpg) top center no-repeat; }
+.industries .water header.top { background: #007090 url(../../public/assets/img/industries/BG-water.jpg) top center no-repeat; }
 .industries .water .features svg { fill: #007090;}
 .industries .water .features .f1 svg { height: 82px; width: 129px; margin-left: -65px; }
 .industries .water .features .f2 svg { height: 100px; width: 100px; margin-left: -50px; }
@@ -685,7 +685,7 @@
 .industries .water .features-apps .apps li img { border-color: #007090; }
 
 /* TESTIMONIALS */
-.industries .testimonial.nestbuilders { background: url(../img/industries/BG-nestbuilders.jpg) top center no-repeat; }
+.industries .testimonial.nestbuilders { background: url(../../public/assets/img/industries/BG-nestbuilders.jpg) top center no-repeat; }
 .industries .testimonial.nestbuilders .logo { width: 300px; margin-top: 45px; border: 1px solid #ccc; }
 .industries .testimonial.nestbuilders .text { padding-top: 10px; }
 
@@ -730,7 +730,7 @@
 .industries .cartodb h3,
 .industries .cartodb h4 { text-align: center; }
 
-.industries .cartodb header.top { background: #046aaa url(../img/integrations/BG-cartodb.jpg) top center no-repeat; }
+.industries .cartodb header.top { background: #046aaa url(../../public/assets/img/integrations/BG-cartodb.jpg) top center no-repeat; }
 .industries .cartodb header svg,
 .industries .cartodb svg { fill: #335f6d; height: 60px; margin-top: 12px; }
 .industries .cartodb svg path { fill: #fff; }
@@ -787,7 +787,7 @@
 .industries .cartodb .syncing .text li { overflow: hidden; margin-bottom: 10px; }
 .industries .cartodb .syncing .text li p { margin-top: 7px; margin-left: 46px; }
 .industries .cartodb .syncing .text li span {
-  background: url(../img/integrations/check.png) top left no-repeat;
+  background: url(../../public/assets/img/integrations/check.png) top left no-repeat;
   background-size: cover;
   display: block;
   float: left;
@@ -830,7 +830,7 @@
 --------------------------------------------------------------------------------------------------------------------*/
 .industries .content.zapier .content { margin: 50px 0; }
 .industries .zapier section.narrow { width: 760px; margin-bottom: 20px; }
-.industries .zapier header.top { background: #858585 url(../img/integrations/icon-zapier-bg.png) top left repeat; }
+.industries .zapier header.top { background: #858585 url(../../public/assets/img/integrations/icon-zapier-bg.png) top left repeat; }
 
 .industries .zapier header.top a { margin-top: 20px; }
 .industries .zapier .icon-container { border-color: #335; }

@@ -20,7 +20,7 @@
 .services h2 { text-align: left; }
 .services h3 { margin-bottom: 5px; text-align: left; }
 .services p { margin-bottom: 40px; }
-.services #saveForm { background: url(../img/features/submit.jpg) top center no-repeat; height:45px; width:251px; }
+.services #saveForm { background: url(../../public/assets/img/features/submit.jpg) top center no-repeat; height:45px; width:251px; }
 
 .premium-support i { display: block; margin-top: 7px; }
 .premium-support i.icon-remove { margin-top: 14px; }
@@ -49,10 +49,10 @@
 
 .custom-reports .sample { position:relative; margin-bottom:160px; }
 .custom-reports .branding, .custom-reports .contact, .custom-reports .layout, .custom-reports .signatures { position:absolute; }
-.custom-reports .branding { background: url(../img/features/branding.png) top center no-repeat; height:167px; width:263px; top:-80px; left:-184px; }
-.custom-reports .contact { background: url(../img/features/contact.png) top center no-repeat; height:117px; width:267px; top:0; right:-160px; }
-.custom-reports .layout { background: url(../img/features/layout.png) top center no-repeat; height:208px; width:276px; top:170px; left:-190px; }
-.custom-reports .signatures { background: url(../img/features/signatures.png) top center no-repeat; height:198px; width:310px; bottom:-110px; left:0; }
+.custom-reports .branding { background: url(../../public/assets/img/features/branding.png) top center no-repeat; height:167px; width:263px; top:-80px; left:-184px; }
+.custom-reports .contact { background: url(../../public/assets/img/features/contact.png) top center no-repeat; height:117px; width:267px; top:0; right:-160px; }
+.custom-reports .layout { background: url(../../public/assets/img/features/layout.png) top center no-repeat; height:208px; width:276px; top:170px; left:-190px; }
+.custom-reports .signatures { background: url(../../public/assets/img/features/signatures.png) top center no-repeat; height:198px; width:310px; bottom:-110px; left:0; }
 
 .app-design .sample { margin: 0 auto 60px; width:960px; }
 .offline-maps .sample { margin: 0 auto 60px; width:640px; }
@@ -257,23 +257,23 @@ Media Queries ------------------------------------------------------------------
 .mini .info p, .small .info p, .medium .info p, .large .info p { margin-top:-12px; }
 
 #plans .mini .header { background:#769bb0; }
-#plans .mini .icon { background:url(../img/icon-plans-single.jpg) top center no-repeat; height:29px; width:29px; margin:13px 0 0 15px;  }
+// #plans .mini .icon { background:url(../../public/assets/img/icon-plans-single.jpg) top center no-repeat; height:29px; width:29px; margin:13px 0 0 15px;  }
 .mini h2, .mini .more { color:#769bb0; }
 
 #plans .small .header { background:#ff3400; }
-#plans .small .icon { background:url(../img/icon-plans-small.jpg) top center no-repeat; height:38px; width:39px; margin:11px 0 0 11px;  }
+// #plans .small .icon { background:url(../../public/assets/img/icon-plans-small.jpg) top center no-repeat; height:38px; width:39px; margin:11px 0 0 11px;  }
 .small h2, .small .more { color:#ff3400; }
 
 #plans .medium .header { background:#2b8400; }
-#plans .medium .icon { background:url(../img/icon-plans-medium.jpg) top center no-repeat; height:25px; width:47px; margin:18px 0 0 6px;  }
+// #plans .medium .icon { background:url(../../public/assets/img/icon-plans-medium.jpg) top center no-repeat; height:25px; width:47px; margin:18px 0 0 6px;  }
 .medium h2, .medium .more { color:#2b8400; }
 
 #plans .large .header { background:#263743; }
-#plans .large .icon { background:url(../img/icon-plans-large.jpg) top center no-repeat; height:17px; width:50px; margin:21px 0 0 6px;  }
+// #plans .large .icon { background:url(../../public/assets/img/icon-plans-large.jpg) top center no-repeat; height:17px; width:50px; margin:21px 0 0 6px;  }
 .large h2, .large .more { color:#263743; }
 
 #plans .info .users {
-  background: url(../img/icon-plans-users.png) no-repeat;
+  // background: url(../../public/assets/img/icon-plans-users.png) no-repeat;
   float:right;
   height: 70px;
   width: 15px;
@@ -725,7 +725,7 @@ background-repeat: repeat;
   .medium .info p, .large .info p { margin-left:20px;}
   #plans .mini .info { margin-left:50px; width:200px;}
   #plans .small .info { margin-left:40px; width:200px;}
-  #plans .info .price { background:url(../img/plans-line.png) right 10px no-repeat; float:left; margin-right:20px; margin-top:0; padding-right:30px; }
+  // #plans .info .price { background:url(../../public/assets/img/plans-line.png) right 10px no-repeat; float:left; margin-right:20px; margin-top:0; padding-right:30px; }
   .mini h2, .small h2, .medium h2, .large h2 { font-size:2.22222222222222em; text-align:left; }
 
   #plans .info .users { background-position:0 18px; margin-right:10px; padding-top:0px; font-size: 2.77777777777778em; }
@@ -746,7 +746,7 @@ background-repeat: repeat;
   .medium .info p, .large .info p { margin-left:56px;}
   #plans .mini .info { margin-left:100px; width:250px;}
   #plans .small .info { margin-left:95px; width:250px;}
-  #plans .info .price { background:url(../img/plans-line.png) right 15px no-repeat; float:left; margin-right:20px; margin-top:0; padding-right:30px; }
+  // #plans .info .price { background:url(../../public/assets/img/plans-line.png) right 15px no-repeat; float:left; margin-right:20px; margin-top:0; padding-right:30px; }
   .mini h2, .small h2, .medium h2, .large h2 { font-size:3.22222222222222em; text-align:left; }
 
   #plans .mini .info .users { margin-right:35px; }
@@ -771,7 +771,7 @@ background-repeat: repeat;
   .medium .info p, .large .info p { margin-left:20px;}
   #plans .mini .info { margin-left:70px; width:202px;}
   #plans .small .info { margin-left:70px; width:200px;}
-  #plans .info .price { background:url(../img/plans-line.png) right 10px no-repeat; float:left; margin-right:0px; margin-top:0px; padding-right:20px; }
+  // #plans .info .price { background:url(../../public/assets/img/plans-line.png) right 10px no-repeat; float:left; margin-right:0px; margin-top:0px; padding-right:20px; }
   .mini h2, .small h2, .medium h2, .large h2 { font-size:2.22222222222222em; text-align:left; }
 
   #plans .mini .info .users { margin-right:35px; }
@@ -797,7 +797,7 @@ background-repeat: repeat;
   .medium .info p, .large .info p { margin-left:20px;}
   #plans .mini .info { margin-left:16px; width:202px;}
   #plans .small .info { margin-left:17px; width:185px;}
-  #plans .info .price { background:url(../img/plans-line.png) right 10px no-repeat; float:left; margin-right:0px; margin-top:0; padding-right:10px; }
+  // #plans .info .price { background:url(../../public/assets/img/plans-line.png) right 10px no-repeat; float:left; margin-right:0px; margin-top:0; padding-right:10px; }
   #plans .mini .info .price, #plans .small .info .price { padding-right:15px; }
   .mini h2, .small h2, .medium h2, .large h2 { font-size:2.22222222222222em; text-align:left; }
 
